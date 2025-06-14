@@ -1,0 +1,7 @@
+O usuário fará uma viagem para a cidade de {destination}.
+O usuário viajará {group}. 
+A viagem ocorrerá no mês de {month} e durará {days} dias. 
+O orçamento do usuário é {budget}.
+O usuário busca uma viagem com ritmo {rhythm}.
+O usuário gosta de {activities}
+Auxilie o usuário para construir esse plano em {destination}!

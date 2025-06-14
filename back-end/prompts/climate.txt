@@ -1,0 +1,2 @@
+Indique como é o clima de {destination} em {month}. Traga a média das temperaturas máximas e a média das temperaturas mínimas.
+Diga se {month} é mais chuvoso ou seco em {destination}. Caso se aplique, avise se é um mês de desastres climáticos em {destination}.

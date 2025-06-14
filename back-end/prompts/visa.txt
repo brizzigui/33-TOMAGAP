@@ -1,0 +1,2 @@
+O usuário é de {nationality} e passará {days} dias em {destination}.
+Pense cuidadosamente e informe se o usuário necessitará de vistos ou qualquer documentação adicional.

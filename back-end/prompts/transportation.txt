@@ -1,0 +1,5 @@
+Faça um resumo de como o usuário, como turista, pode se locomover em {destination}.
+Fale sobre os tipos de transporte disponíveis em {destination}.
+Se houver transporte público, explique como usá-lo e se existem passes ou bilhetes relevantes para o usuário.
+Explique também como chegar e ir para os principais aeroportos de {destination}, se este existir.
+Traga demais informações que achar relevantes para o usuário.

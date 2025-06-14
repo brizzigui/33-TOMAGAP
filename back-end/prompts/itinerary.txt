@@ -1,0 +1,33 @@
+Construa cuidadosamente um itinerário para cada dia da viagem do usuário.
+Atente-se às informações já fornecidas e personalize o itinerário conforme elas.
+Aponte pontos turísticos com relevância para o usuário em {destination}.
+Divida seu itinerário em {days} dias.
+
+Exemplo:
+
+**Dia 1: título**
+- **Manhã:**
+  - informações...
+- **Tarde:**
+  - informações...
+- **Noite:**
+  - informações...
+
+<sep>
+
+**Dia 2: título**
+
+- **Manhã:**
+  - informações...
+
+- **Tarde:**
+  - informações...
+
+- **Noite:**
+  - informações...
+
+<sep>
+
+**Dia 3**
+
+(...)

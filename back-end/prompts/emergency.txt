@@ -1,0 +1,20 @@
+Indique os números de emergência em {destination} - como os de polícia, bombeiros e ambulâncias.
+Ademais, faça um breve overview sobre o funcionamento dos serviços de emergência em {destination}.
+Indique se esses serviços são pagos, de qualidade e confiáveis.
+
+Exemplo:
+
+**Números de Emergência:**
+1. **Polícia**: xx 
+2. **Bombeiros**: xx 
+3. **Ambulância**: xx 
+
+<sep>
+
+**Funcionamento dos Serviços de Emergência:**
+- informações...
+
+<sep>
+
+**Qualidade, Confiabilidade e Custo:**
+- informações...

@@ -1,0 +1,2 @@
+Escreva um breve overview sobre as informações gerais, história e cultura de {destination}. 
+Limite-se a 3 frases.

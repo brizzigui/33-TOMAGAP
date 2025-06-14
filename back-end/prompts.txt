@@ -1,0 +1,73 @@
+System prompt:
+    Você é um planejador pessoal de viagens. 
+    O seu objetivo é auxiliar o usuário a montar sua viagem. 
+    Serão feitos pedidos de informações diversas.
+    Responda-os corretamente e com informações verídicas.
+
+Global prompt:
+    O usuário fará uma viagem para a cidade de {destination}.
+    O usuário viajará {group}. 
+    A viagem ocorrerá no mês de {month} e durará {duration} dias. 
+    O orçamento do usuário é {budget}.
+    O usuário busca uma viagem com ritmo {rhythm}.
+    O usuário gosta de {activities}
+    Auxilie o usuário para construir esse plano em {destination}!
+
+\\
+    History prompt:
+        Escreva um breve overview sobre as informações gerais, história e cultura de {destination}. 
+        Limite-se a 3 frases.
+
+    Quick info prompt:
+        Informe o idioma, moeda e país e fuso horário de {destination}.
+\\
+
+\\
+    Itinerary prompt:
+        Construa cuidadosamente um itinerário para cada dia da viagem do usuário.
+        Atente-se às informações já fornecidas e personalize o itinerário conforme elas.
+        Aponte pontos turísticos com relevância para o usuário em {destination}.
+        Divida seu itinerário em {days} dias.
+\\
+
+\\
+    Culinary prompt:
+        Escreva um breve resumo sobre a culinária típica de {destination} e da sua região.
+        Traga 5 pratos e bebidas típicas que você acha que o usuário deveria experimentar.
+\\
+
+
+\\
+    Transportation prompt:
+        Faça um resumo de como o usuário, como turista, pode se locomover em {destination}.
+        Fale sobre os tipos de transporte disponíveis em {destination}.
+        Se houver transporte público, explique como usá-lo e se existem passes ou bilhetes relevantes para o usuário.
+        Explique também como chegar e ir para os principais aeroportos de {destination}, se este existir.
+        Traga demais informações que achar relevantes para o usuário.
+\\
+
+\\
+    Local warnings prompt:
+        O usuário viajará para {destination}. O usuário é de {nationality}.
+        Aponte cuidados, riscos e diferenças culturais com os quais o usuário deve se atentar.
+        Traga também cuidados especiais para mulheres, crianças e demais minorias.
+
+    Bag prompt:
+        Sabendo que o usuário viajará em {month} para {destination}, recomende quais itens seriam recomendados para viagem de {days}.
+        Atente-se ao clima local e recomende itens úteis para o caso do usuário.
+
+    Visa prompt:
+        O usuário é de {nationality} e passará {days} dias em {destination}.
+        Pense cuidadosamente e informe se o usuário necessitará de vistos ou qualquer documentação adicional.
+
+    Climate prompt:
+        Indique como é o clima de {destination} em {month}. Traga a média das temperaturas máximas e a média das temperaturas mínimas.
+        Diga se {month} é mais chuvoso ou seco em {destination}. Caso se aplique, avise se é um mês de desastres climáticos em {destination}.
+
+    Emergency prompt:
+        Indique os números de emergência em {destination} - como os de polícia, bombeiros e ambulâncias.
+        Ademais, faça um breve overview sobre o funcionamento dos serviços de emergência em {destination}.
+        Indique se esses serviços são pagos, de qualidade e confiáveis.
+    
+\\
+

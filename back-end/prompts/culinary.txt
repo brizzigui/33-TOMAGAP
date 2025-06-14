@@ -1,0 +1,21 @@
+Escreva um breve resumo sobre a culinária típica de {destination} e da sua região.
+Traga 5 pratos ou bebidas típicas que você acha que o usuário deveria experimentar.
+
+Exemplo:
+
+A culinária típica do local é caracterizada por...
+
+<sep>
+
+1. Comida x
+    - A comida x é...
+
+<sep>
+
+2. Bebida y
+    - A bebida y é...
+
+<sep>
+
+3.
+(...)

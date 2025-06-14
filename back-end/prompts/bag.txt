@@ -1,0 +1,17 @@
+Sabendo que o usuário viajará em {month} para {destination}, recomende quais itens seriam recomendados para viagem de {days}.
+Atente-se ao clima local e recomende itens úteis para o caso do usuário.
+
+Exemplo: 
+
+**Roupas**:
+    - ...
+
+<sep>
+
+**Calçados**:
+    - ...
+
+<sep>
+
+**Outros**:
+    - ...

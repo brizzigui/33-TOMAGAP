@@ -1,0 +1,18 @@
+O usuário viajará para {destination}. O usuário é de {nationality}.
+Aponte cuidados, riscos e diferenças culturais com os quais o usuário deve se atentar.
+Traga também cuidados especiais para mulheres, crianças e demais minorias.
+
+Exemplo:
+
+Cuidados e Riscos:
+    - informações...
+
+<sep>
+
+Diferenças Culturais:
+    - informações...
+
+<sep>
+
+Cuidados Especiais:
+    - informações...

@@ -1,0 +1,10 @@
+{
+    "city": "city",
+    "month": "month",
+    "days": "days",
+    "group": "group",
+    "budget": "budget",
+    "rhythm": "rhythm",
+    "activities": ["a", "b", "c"],
+    "nationality": "nationality"
+}

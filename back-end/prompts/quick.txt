@@ -1,0 +1,9 @@
+Informe o idioma, moeda e país e fuso horário de {destination}.
+Para o idioma, digite apenas o nome do idioma.
+Para a moeda, apenas o nome da moeda.
+Para o país, apenas o nome do país.
+Para o fuso, apenas o fuso em GMT.
+
+Separe cada item com "<sep>", como:
+
+idioma <sep> moeda <sep> país <sep> fuso
