@@ -59,6 +59,7 @@ Execute `python main.py`.
 Para executar o servidor de front-end
 Caso já não tenha instalado, instale o Node.js
 Usando `npm install`, instale os pacotes necessários.
+Copie o arquivo `.env.example` para `.env.local` e substitui o valor de `NEXT_PUBLIC_API_URL` para o endereço da API.
 Rode `npm run build`
 Rode `npm run start`
 
