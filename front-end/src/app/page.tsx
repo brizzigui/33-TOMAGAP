@@ -1,11 +1,11 @@
 import Image from "next/image";
-import { Tobias } from './tobias';
+import Main from '../components/Main';
 
 
 export default function Home() {
   return (
     <div>
-      <Tobias ana="hello" />
+      <Main />
     </div>
   );
 }

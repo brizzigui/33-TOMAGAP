@@ -4,7 +4,7 @@ import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import Link from 'next/link';
 
-export function Tobias(props: any) {
+export default function Main() {
     return (
         <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 p-4">
             {/* Container principal */}
@@ -51,9 +51,9 @@ export function Tobias(props: any) {
                     
                     {/* Lado direito - Imagem de família */}
                     <div className="flex justify-center lg:justify-end">
-                        <div className="w-80 h-96 rounded-2xl shadow-lg overflow-hidden">
+                        <div className="w-120 h-96 rounded-2xl shadow-lg overflow-hidden">
                             <Image
-                                src="/Images/imagemFamilia.jpg"
+                                src="/Images/familiaNeve2.jpg"
                                 alt="Família viajando"
                                 width={320}
                                 height={384}
@@ -77,7 +77,7 @@ export function Tobias(props: any) {
                                 className="w-full h-full object-cover"
                             />
                             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
-                                <p className="text-white font-semibold">Pontos Turísticos</p>
+                                <p className="text-white font-semibold">Itinerário</p>
                             </div>
                         </div>
                     </div>
@@ -86,14 +86,14 @@ export function Tobias(props: any) {
                     <div className="relative group cursor-pointer hover:scale-105 transition-transform duration-300">
                         <div className="w-full h-64 rounded-xl shadow-lg overflow-hidden">
                             <Image
-                                src="/Images/praiaRioJaneiro.jpg"
+                                src="/Images/pizza.webp"
                                 alt="Praia do Rio de Janeiro"
                                 width={300}
                                 height={256}
                                 className="w-full h-full object-cover"
                             />
                             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
-                                <p className="text-white font-semibold">Praias</p>
+                                <p className="text-white font-semibold">Gastronomia</p>
                             </div>
                         </div>
                     </div>
@@ -102,14 +102,14 @@ export function Tobias(props: any) {
                     <div className="relative group cursor-pointer hover:scale-105 transition-transform duration-300">
                         <div className="w-full h-64 rounded-xl shadow-lg overflow-hidden">
                             <Image
-                                src="/Images/familiaNeve.jpg"
+                                src="/Images/munchen.jpg"
                                 alt="Família na neve"
                                 width={300}
                                 height={256}
                                 className="w-full h-full object-cover"
                             />
                             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
-                                <p className="text-white font-semibold">Aventura</p>
+                                <p className="text-white font-semibold">Costumes</p>
                             </div>
                         </div>
                     </div>
@@ -118,14 +118,14 @@ export function Tobias(props: any) {
                     <div className="relative group cursor-pointer hover:scale-105 transition-transform duration-300">
                         <div className="w-full h-64 rounded-xl shadow-lg overflow-hidden">
                             <Image
-                                src="/Images/familiaNeve2.jpg"
+                                src="/Images/sanfrancisco.jpg"
                                 alt="Família na neve"
                                 width={300}
                                 height={256}
                                 className="w-full h-full object-cover"
                             />
                             <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black to-transparent p-4">
-                                <p className="text-white font-semibold">Família</p>
+                                <p className="text-white font-semibold">Transporte</p>
                             </div>
                         </div>
                     </div>
